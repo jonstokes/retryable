@@ -7,9 +7,9 @@ Gem::Specification.new do |spec|
   spec.name          = "retryable"
   spec.version       = Retryable::VERSION
   spec.authors       = ["Jon Stokes"]
-  spec.email         = ["jon@paperhatpress.com"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
+  spec.email         = ["jon@jonstokes.com"]
+  spec.summary       = %q{This is my own version of a popular module.}
+  spec.description   = %q{This is my own version of a popular module. You should probably use someone else's.}
   spec.homepage      = ""
   spec.license       = "MIT"
 
